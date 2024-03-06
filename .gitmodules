@@ -1,3 +1,6 @@
 [submodule "version0.1"]
 	path = version0.1
 	url = https://github.com/RASHMOR1/version-0.1.git
+[submodule "version-0.2"]
+	path = version-0.2
+	url = https://github.com/RASHMOR1/version-0.2.git
